@@ -15,4 +15,4 @@ function countDown(num){
     console.log(countdown--);
     }
 }
-countDown(num)
+countDown()
